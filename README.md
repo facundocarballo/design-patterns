@@ -10,8 +10,8 @@ npm run build
 ```
 
 ```bash
-npm run start --path=path/to/the/design/pattern.js
+npm run start --path=path/to/the/design/pattern
 ```
 
 #### Examples of paths
-1. `creational/infrastructure/main.js`
+1. `creational/factory-method`

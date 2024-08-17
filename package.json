@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "npx tsc",
-    "start": "node build/$npm_config_path"
+    "start": "node build/$npm_config_path/infrastructure/main.js"
   },
   "keywords": [],
   "author": "Facundo Nicolas Carballo",
