@@ -1,2 +1,2 @@
 # Factory Method
-![Output](image.png)
+![Output](output.png)
