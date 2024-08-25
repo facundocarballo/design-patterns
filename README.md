@@ -15,3 +15,4 @@ npm run start --path=path/to/the/design/pattern
 
 #### Examples of paths
 1. `creational/factory-method`
+2. `structural/adapter`
