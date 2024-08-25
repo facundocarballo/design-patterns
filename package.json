@@ -5,9 +5,12 @@
   "main": "index.js",
   "scripts": {
     "build": "npx tsc",
-    "start": "node build/$npm_config_path/infrastructure/main.js"
+    "start": "node build/$npm_config_path/main.js"
   },
   "keywords": [],
   "author": "Facundo Nicolas Carballo",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "design-patterns": "file:"
+  }
 }
