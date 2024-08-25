@@ -1,7 +1,7 @@
-import { SellProductUseCase } from "../app/sell-product/sell-product";
-import { SellProductUseCaseInput } from "../app/sell-product/sell-product.input";
-import { CourseFactory } from "../domain/product/course/course-factory";
-import { MentorshipFactory } from "../domain/product/mentorship/mentorship-factory";
+import { SellProductUseCase } from "./app/sell-product/sell-product";
+import { SellProductUseCaseInput } from "./app/sell-product/sell-product.input";
+import { CourseFactory } from "./domain/product/course/course-factory";
+import { MentorshipFactory } from "./domain/product/mentorship/mentorship-factory";
 
 function main() {
   const courseFactory = new CourseFactory();
